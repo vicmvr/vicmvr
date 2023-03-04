@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Ruby...
 - 👯 I’m looking to collaborate on Csharp Projects
 
-Actualmente parte de gaceta.webcindario.com/
+Actualmente parte de [Gaceta Pedagogica](https://gaceta.webcindario.com/)
 
 ### 👥 Social Media
 

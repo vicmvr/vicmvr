@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Ruby...
 - 👯 I’m looking to collaborate on Csharp Projects
 
+Actualmente parte de gaceta.webcindario.com/
+
 ### 👥 Social Media
 
 [![Linkedin Badge](https://img.shields.io/badge/-vicmvr-00599C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vicmvr/)](https://www.linkedin.com/in/vicmvr) &nbsp;&nbsp;

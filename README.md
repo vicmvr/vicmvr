@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚙️ Software Developer
 - 📧 vicmvr@msn.com
 - 💬 Ask me anything, I like to talk
-- 🌱 I’m currently learning Ruby...
+- 🌱 I’m currently learning Ruby and rails, JavaScript...
 - 👯 I’m looking to collaborate on Csharp Projects
 
 

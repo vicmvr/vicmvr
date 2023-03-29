@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Csharp Projects
 
 
-Currently part of the [Gaceta Pedagogica](https://gaceta.webcindario.com/)
+Currently part of the [Gaceta Pedagogica](https://gacetapedagogica.netlify.app/)
 
 ### 👥 Social Media
 

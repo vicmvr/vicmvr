@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Ruby and rails, JavaScript...
 - 👯 I’m looking to collaborate on Csharp Projects
 
-
+Blog [Victor Villagomez](https://victorvillagomez.netlify.app/)
 Currently part of the [Gaceta Pedagogica](https://gacetapedagogica.netlify.app/)
+
+
 
 ### 👥 Social Media
 

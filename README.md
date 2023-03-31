@@ -35,9 +35,7 @@ Currently part of the [Gaceta Pedagogica](https://gacetapedagogica.netlify.app/)
 
 ### 👥 Skills
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,ruby,js,css,html,mongo,express,react,nodejs,vite,mysql,git,github,gitlab,eclipse,java,dotnet,c,cs,cpp,ai,ps,ae,pr,figma,postman,netlify,discord,powershell,linux,stackoverflow,wordpress,twitter" />
-  </a>
 </p>
 
 

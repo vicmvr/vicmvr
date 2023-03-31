@@ -14,21 +14,21 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hello, Welcome!
 
-- ⚙️ Software Developer
+- ⚙️ Software Desktop and Web Developer
 - 📧 vicmvr@msn.com
 - 💬 Ask me anything, I like to talk
-- 🌱 I’m currently learning Ruby and rails, JavaScript...
-- 👯 I’m looking to collaborate on Csharp Projects
+- 🌱 I’m currently learning Ruby and rails, PostgresSQL, JavaScript...
+- 👯 I’m looking to collaborate on Csharp and Web Projects
 
-Blog [Victor Villagomez](https://victorvillagomez.netlify.app/)
+Personal Blog [Victor Villagomez](https://victorvillagomez.netlify.app/) (CSS and HTML)
 
-[Dashboard](https://dashboard-vicmvr.fly.dev/) (Mongo,Express,React,Nodejs)
+[Dashboard](https://dashboard-vicmvr.fly.dev/) (Mongo, Express, React, Nodejs)
 
-[Mini red social](https://miredsocial.vercel.app/) (Mongo,Express,React,Nodejs)
+[Mini red social](https://miredsocial.vercel.app/) (Mongo, Express, React, Nodejs)
 
-[Mini blog](https://a-mblog.netlify.app/) (Mongo,Express,React,Nodejs)
+[Mini blog](https://a-mblog.netlify.app/) (Mongo, Express, React, Nodejs)
 
-[Gaceta Pedagogica](https://gacetapedagogica.netlify.app/)
+[Gaceta Pedagógica](https://gacetapedagogica.netlify.app/) (CSS and HTML)
 
 ### 👥 Social Media
 
@@ -36,6 +36,7 @@ Blog [Victor Villagomez](https://victorvillagomez.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-vicmvr-007ACC?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/vicmvr/)](https://www.twitter.com/vicmvr) &nbsp;&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-jaketomake-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jaketomake/)](https://www.instagram.com/vicmvr) &nbsp;&nbsp;
 [![Facebook Badge](https://img.shields.io/badge/-vicmvr-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/vicmvr/)](https://www.facebook.com/vicmvr)
+[![Twitch Badge](https://img.shields.io/badge/-jaketomake-purple?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/jaketomake/)](https://www.twitch.tv/jaketomake)
 
 ### 👥 Skills
 <p align="center">

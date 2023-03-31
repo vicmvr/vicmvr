@@ -31,3 +31,10 @@ Currently part of the [Gaceta Pedagogica](https://gacetapedagogica.netlify.app/)
 [![Twitter Badge](https://img.shields.io/badge/-vicmvr-007ACC?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/vicmvr/)](https://www.twitter.com/vicmvr) &nbsp;&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-jaketomake-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jaketomake/)](https://www.instagram.com/vicmvr) &nbsp;&nbsp;
 [![Facebook Badge](https://img.shields.io/badge/-vicmvr-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/vicmvr/)](https://www.facebook.com/vicmvr)
+
+### 👥 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,ruby,rails,postgres,js,css,html,mongo,express,react,nodejs,nextjs,vite,mysql,git,github,gitlab,eclipse,java,dotnet,c,cs,cpp,ai,ps,ae,pr,figma,postman,netlify,discord,powershell,linux,stackoverflow,wordpress,twitter" />
+  </a>
+</p>

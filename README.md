@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Csharp Projects
 
 Blog [Victor Villagomez](https://victorvillagomez.netlify.app/)
+
 Currently part of the [Gaceta Pedagogica](https://gacetapedagogica.netlify.app/)
 
 
@@ -38,3 +39,10 @@ Currently part of the [Gaceta Pedagogica](https://gacetapedagogica.netlify.app/)
     <img src="https://skillicons.dev/icons?i=vscode,ruby,js,css,html,mongo,express,react,nodejs,vite,mysql,git,github,gitlab,eclipse,java,dotnet,c,cs,cpp,ai,ps,ae,pr,figma,postman,netlify,discord,powershell,linux,stackoverflow,wordpress,twitter" />
   </a>
 </p>
+
+
+[Dashboard](https://dashboard-vicmvr.fly.dev/) (Mongo,Express,React,Nodejs)
+
+[Mini red social](https://miredsocial.vercel.app/) (Mongo,Express,React,Nodejs)
+
+[Mini blog](https://a-mblog.netlify.app/) (Mongo,Express,React,Nodejs)

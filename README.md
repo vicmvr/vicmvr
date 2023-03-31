@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚙️ Software Desktop and Web Developer
 - 📧 vicmvr@msn.com
 - 💬 Ask me anything, I like to talk
-- 🌱 I’m currently learning Ruby and rails, PostgresSQL, JavaScript...
+- 🌱 I’m currently learning Ruby and Rails, PostgreSQL, JavaScript...
 - 👯 I’m looking to collaborate on Csharp and Web Projects
 
 Personal Blog UI [Victor Villagomez](https://victorvillagomez.netlify.app/) (CSS and HTML)

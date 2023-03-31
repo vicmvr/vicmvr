@@ -35,7 +35,8 @@ Personal Blog UI [Victor Villagomez](https://victorvillagomez.netlify.app/) (CSS
 [![Linkedin Badge](https://img.shields.io/badge/-vicmvr-00599C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vicmvr/)](https://www.linkedin.com/in/vicmvr) &nbsp;&nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-vicmvr-007ACC?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/vicmvr/)](https://www.twitter.com/vicmvr) &nbsp;&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-jaketomake-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jaketomake/)](https://www.instagram.com/vicmvr) &nbsp;&nbsp;
-[![Twitch Badge](https://img.shields.io/badge/-jaketomake-purple?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/jaketomake/)](https://www.twitch.tv/jaketomake)
+[![Twitch Badge](https://img.shields.io/badge/-jaketomake-purple?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/jaketomake/)](https://www.twitch.tv/jaketomake)&nbsp;&nbsp;
+[![YouTube Badge](https://img.shields.io/badge/-jaketomake-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/jaketomake/)](https://www.youtube.com/c/jaketomake)
 
 ### 👥 Some Skills
 <p align="center">

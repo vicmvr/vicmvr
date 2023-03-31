@@ -37,7 +37,7 @@ Personal Blog [Victor Villagomez](https://victorvillagomez.netlify.app/) (CSS an
 [![Instagram Badge](https://img.shields.io/badge/-jaketomake-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jaketomake/)](https://www.instagram.com/vicmvr) &nbsp;&nbsp;
 [![Twitch Badge](https://img.shields.io/badge/-jaketomake-purple?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/jaketomake/)](https://www.twitch.tv/jaketomake)
 
-### 👥 Skills
+### 👥 Some Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,ruby,js,css,html,mongo,express,react,nodejs,vite,mysql,git,github,gitlab,eclipse,java,dotnet,c,cs,cpp,ai,ps,ae,pr,figma,postman,netlify,discord,powershell,linux,stackoverflow,wordpress,twitter" />

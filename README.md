@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Ruby and Rails, PostgreSQL, JavaScript...
 - 👯 I’m looking to collaborate on Web Projects
 
-Personal Blog UI [Victor Villagomez](https://victorvillagomez.dev/) (CSS and HTML)
+Personal Blog UI [Victor Villagomez](https://victorvillagomez.dev/)
 
-[Dashboard](https://dashboard-vicmvr.fly.dev/) (Mongo, Express, React, Nodejs)
+[Dashboard](https://dashboard-vicmvr.fly.dev/)
 
-[Mini red social](https://miredsocial.vercel.app/) (Mongo, Express, React, Nodejs)
+[Mini red social](https://miredsocial.vercel.app/)
 
-[Mini blog](https://a-mblog.netlify.app/) (Mongo, Express, React, Nodejs)
+[Mini blog](https://a-mblog.netlify.app/) 
 
-[Gaceta Pedagógica](https://gacetapedagogica.netlify.app/) (CSS and HTML)
+[Gaceta Pedagógica](https://gacetapedagogica.netlify.app/) 
 
 ### 👥 Social Media
 

@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Ruby and Rails, PostgreSQL, JavaScript...
 - 👯 I’m looking to collaborate on Csharp and Web Projects
 
-Personal Blog UI [Victor Villagomez](https://victorvillagomez.netlify.app/) (CSS and HTML)
+Personal Blog UI [Victor Villagomez](https://victorvillagomez.dev/) (CSS and HTML)
 
 [Dashboard](https://dashboard-vicmvr.fly.dev/) (Mongo, Express, React, Nodejs)
 

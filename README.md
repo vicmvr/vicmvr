@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📧 vicmvr@msn.com
 - 💬 Ask me anything, I like to talk
 - 🌱 I’m currently learning Ruby and Rails, PostgreSQL, JavaScript...
-- 👯 I’m looking to collaborate on Web Projects
+- 👯 I’m currently focused on web development and I’m looking to collaborate on web projects
 
 Personal Blog UI [Victor Villagomez](https://victorvillagomez.dev/)
 

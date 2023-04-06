@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 - ⚙️ Software Desktop and Web Developer
 - 📧 vicmvr@msn.com
-- 💬 Ask me anything, I like to talk
+- 💬 Ask me anything, I like to talk about programming and videogames
 - 🌱 I’m currently learning Ruby and Rails, PostgreSQL, JavaScript...
-- 👯 I’m currently focused on web development and I’m looking to collaborate on web projects
+- 👯 I’m currently focused on web development but also willing to work on desktop or mobile projects
 
 Personal Blog UI [Victor Villagomez](https://victorvillagomez.dev/)
 

@@ -41,7 +41,7 @@ Personal Blog UI [Victor Villagomez](https://victorvillagomez.dev/)
 ### 👥 Some Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ruby,js,css,html,mongo,express,react,nodejs,vite,mysql,git,github,gitlab,eclipse,java,dotnet,c,cs,cpp,ai,ps,pr,figma,postman,netlify,discord,powershell,linux,stackoverflow,wordpress,twitter" />
+    <img src="https://skillicons.dev/icons?i=vscode,ruby,js,css,html,mongo,express,react,nodejs,vite,mysql,git,github,gitlab,eclipse,java,dotnet,cs,c,cpp,ai,ps,pr,figma,postman,netlify,discord,powershell,linux,stackoverflow,wordpress,twitter" />
   </a>
 </p>
 

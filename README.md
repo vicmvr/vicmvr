@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hello, Welcome!
 
-- ⚙️ Software Desktop and Web Developer
+- ⚙️ Desktop and Web Software Developer
 - 📧 vicmvr@msn.com
 - 💬 Ask me anything, I like to talk about programming and videogames
 - 🌱 I’m currently learning Ruby and Rails, PostgreSQL, JavaScript...

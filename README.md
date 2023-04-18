@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Ruby and Rails, PostgreSQL, JavaScript...
 - 👯 I’m currently focused on web development but also willing to work on desktop or mobile projects
 
-Personal Blog UI [Victor Villagomez](https://victorvillagomez.dev/)
+[Victor Villagomez](https://victorvillagomez.dev/)
 
 [Dashboard](https://dashboard-vicmvr.fly.dev/)
 

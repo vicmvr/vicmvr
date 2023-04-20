@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 [![Twitch Badge](https://img.shields.io/badge/-jaketomake-4c2882?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/jaketomake/)](https://www.twitch.tv/jaketomake)&nbsp;&nbsp;
 [![YouTube Badge](https://img.shields.io/badge/-jaketomake-cc0014?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/jaketomake/)](https://www.youtube.com/c/jaketomake)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vicmvr&show_icons=true&locale=en&theme=gotham&count_private=true" alt="nothing" /></p>
+
 ### 👥 Some Skills
 <p align="center">
   <a href="https://skillicons.dev">

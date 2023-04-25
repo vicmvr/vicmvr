@@ -12,7 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 Hello, Welcome!
+
+<p align="center">
+    <h1 align="center">✩&emsp;Victor Villagomez&emsp;✩</h1>
+</p>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+vicmvr;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%2300aeb0&center=true&width=280&height=50">
+</p>
+  👋 Hello, Welcome!
 
 - ⚙️ Desktop and Web Software Developer
 - 📧 vicmvr@msn.com
@@ -20,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Ruby and Rails, PostgreSQL, JavaScript...
 - 👯 I’m currently focused on web development but also willing to work on desktop or mobile projects
 
-[Victor Villagomez](https://victorvillagomez.dev/)
+[Personal web](https://victorvillagomez.dev/)
 
 [Dashboard](https://dashboard-vicmvr.fly.dev/)
 
@@ -29,6 +36,13 @@ Here are some ideas to get you started:
 [Mini blog](https://a-mblog.netlify.app/) 
 
 [Gaceta Pedagógica](https://gacetapedagogica.netlify.app/) 
+
+
+<div>
+<img width="49%" height="100%" src="https://github-readme-stats.vercel.app/api?username=vicmvr&show_icons=true&locale=en&theme=gotham&count_private=true" alt="nothing" />
+<a href="https://github.com/vicmvr">
+<img width="49%" height="208px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicmvr&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=false"></a>
+</div>
 
 ### 👥 Social Media
 
@@ -40,13 +54,9 @@ Here are some ideas to get you started:
 [![Twitch Badge](https://img.shields.io/badge/-jaketomake-4c2882?style=flat-square&logo=twitch&logoColor=white&link=https://www.twitch.tv/jaketomake/)](https://www.twitch.tv/jaketomake)&nbsp;&nbsp;
 [![YouTube Badge](https://img.shields.io/badge/-jaketomake-cc0014?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/jaketomake/)](https://www.youtube.com/c/jaketomake)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vicmvr&show_icons=true&locale=en&theme=gotham&count_private=true" alt="nothing" /></p>
-
-### 👥 Some Skills
-<p align="center">
+### 🛠️ Some Skills
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,ruby,js,css,html,mongo,express,react,nodejs,vite,mysql,git,github,gitlab,eclipse,java,dotnet,cs,c,cpp,ai,ps,pr,figma,postman,netlify,discord,powershell,linux,stackoverflow,wordpress,twitter" />
   </a>
-</p>
-
-
+</div>

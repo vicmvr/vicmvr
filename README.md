@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <h1 align="center">💻&emsp;Victor Villagomez&emsp;💼</h1>
+    <h1 align="center">💻&emsp;Víctor Villagómez&emsp;💼</h1>
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+vicmvr;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%2300aeb0&center=true&width=280&height=50">

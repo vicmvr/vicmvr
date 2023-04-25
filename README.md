@@ -14,28 +14,24 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <h1 align="center">✩&emsp;Victor Villagomez&emsp;✩</h1>
+    <h1 align="center">💻&emsp;Victor Villagomez&emsp;💼</h1>
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+vicmvr;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%2300aeb0&center=true&width=280&height=50">
 </p>
-  👋 Hello, Welcome!
 
+- 👋 Hello, Welcome!
 - ⚙️ Desktop and Web Software Developer
 - 📧 vicmvr@msn.com
 - 💬 Ask me anything, I like to talk about programming and videogames
 - 🌱 I’m currently learning Ruby and Rails, PostgreSQL, JavaScript...
 - 👯 I’m currently focused on web development but also willing to work on desktop or mobile projects
 
-[Personal web](https://victorvillagomez.dev/)
-
-[Dashboard](https://dashboard-vicmvr.fly.dev/)
-
-[Mini red social](https://miredsocial.vercel.app/)
-
-[Mini blog](https://a-mblog.netlify.app/) 
-
-[Gaceta Pedagógica](https://gacetapedagogica.netlify.app/) 
+[Personal web](https://victorvillagomez.dev/) | 
+[Dashboard](https://dashboard-vicmvr.fly.dev/) | 
+[Mini red social](https://miredsocial.vercel.app/) | 
+[Mini blog](https://a-mblog.netlify.app/) | 
+[Gaceta Pedagógica](https://gacetapedagogica.netlify.app/) | 
 
 
 <div>

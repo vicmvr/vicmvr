@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=vicmvr&show_icons=true&locale=en&theme=gotham&count_private=true" alt="nothing" />
+<img height="165px"src="https://github-readme-stats.vercel.app/api?username=vicmvr&show_icons=true&locale=en&theme=gotham&count_private=true" alt="nothing" />
 <a href="https://github.com/vicmvr">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicmvr&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=false"></a>
 </div>

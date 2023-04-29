@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 ### 🛠️ Some Skills
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ruby,js,css,html,mongo,express,react,nodejs,vite,mysql,git,github,gitlab,eclipse,java,dotnet,cs,c,cpp,ai,ps,pr,figma,postman,netlify,discord,powershell,linux,stackoverflow,wordpress,twitter" />
+    <img src="https://skillicons.dev/icons?i=vscode,ruby,js,css,html,mongo,express,react,nodejs,vite,mysql,git,github,eclipse,java,dotnet,cs,c,cpp,ps,figma,postman,netlify,discord,powershell,linux,wordpress,twitter" />
   </a>
 </div>

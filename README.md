@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 </p>
 
 - 👋 Hello, Welcome!
-- ⚙️ Desktop and Web Software Developer
+- ⚙️ Software Developer
 - 📧 vicmvr@msn.com
 - 💬 Ask me anything, I like to talk about programming and videogames
-- 🌱 I’m currently learning Ruby and Rails...
+- 🌱 I’m currently learning Python...
 - 👯 I’m currently focused on web development but also willing to work on desktop or mobile projects
 
 <!--[Personal web](https://victorvillagomez.dev/) | -->

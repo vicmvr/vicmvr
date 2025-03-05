@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 
 <!--[Personal web](https://victorvillagomez.dev/) | -->
 
-[E-ecommerce](https://kamy-shop.vercel.app/) | 
+[E-commerce](https://kamy-shop.vercel.app/) | 
 [Dashboard](https://dashboard-vicmvr.fly.dev/) | 
 [Mini red social](https://miredsocial.vercel.app/) | 
 [Mini blog](https://a-mblog.netlify.app/) | 
+[Machinery-catalog](https://machinery-sandy.vercel.app/) | 
 [Gaceta Pedagógica](https://gacetapedagogica.netlify.app/) | 
 
 

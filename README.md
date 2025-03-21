@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <!--[Personal web](https://victorvillagomez.dev/) | -->
 
 [E-commerce](https://kamy-shop.vercel.app/) | 
+[Zenilife](https://zenilife.vercel.app/) |
 [Dashboard](https://dashboard-vicmvr.fly.dev/) | 
 [Mini red social](https://miredsocial.vercel.app/) | 
 [Mini blog](https://a-mblog.netlify.app/) | 

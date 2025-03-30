@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 👯 I’m currently focused on web development but also willing to work on desktop or mobile projects
 
 <!--[Personal web](https://victorvillagomez.dev/) | -->
-
+[Home page](https://victor-villagomez.vercel.app/es) | 
 [E-commerce](https://kamy-shop.vercel.app/) | 
 [Zenilife](https://zenilife.vercel.app/) |
 [Dashboard](https://dashboard-vicmvr.fly.dev/) | 
